@@ -1,0 +1,6 @@
+[DEBUG] 2019-01-21 17:53:35 [main] c.h.d.U.selectByPrimaryKey - ==>  Preparing: select id, username, password from user where id = ? 
+[DEBUG] 2019-01-21 17:53:35 [main] c.h.d.U.selectByPrimaryKey - ==> Parameters: 1(Integer)
+[DEBUG] 2019-01-21 17:53:35 [main] c.h.d.U.selectByPrimaryKey - <==      Total: 1
+[DEBUG] 2019-01-21 17:54:33 [main] c.h.d.U.selectByPrimaryKey - ==>  Preparing: select id, username, password from user where id = ? 
+[DEBUG] 2019-01-21 17:54:33 [main] c.h.d.U.selectByPrimaryKey - ==> Parameters: 1(Integer)
+[DEBUG] 2019-01-21 17:54:33 [main] c.h.d.U.selectByPrimaryKey - <==      Total: 1

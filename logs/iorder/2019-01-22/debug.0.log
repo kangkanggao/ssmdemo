@@ -1,0 +1,15 @@
+[DEBUG] 2019-01-22 11:04:21 [main] c.h.d.U.findByUsernameAndPassword - ==>  Preparing: select username,password from user where username=? and password=? 
+[DEBUG] 2019-01-22 11:04:21 [main] c.h.d.U.findByUsernameAndPassword - ==> Parameters: admin(String), admin(String)
+[DEBUG] 2019-01-22 11:04:21 [main] c.h.d.U.findByUsernameAndPassword - <==      Total: 1
+[DEBUG] 2019-01-22 11:05:07 [main] c.h.d.U.findByUsernameAndPassword - ==>  Preparing: select username,password from user where username=? and password=? 
+[DEBUG] 2019-01-22 11:05:07 [main] c.h.d.U.findByUsernameAndPassword - ==> Parameters: admin(String), admin(String)
+[DEBUG] 2019-01-22 11:05:07 [main] c.h.d.U.findByUsernameAndPassword - <==      Total: 1
+[DEBUG] 2019-01-22 11:38:34 [main] c.h.d.U.findByUsernameAndPassword - ==>  Preparing: select username,password from user where username=? and password=? 
+[DEBUG] 2019-01-22 11:38:34 [main] c.h.d.U.findByUsernameAndPassword - ==> Parameters: admin(String), admin(String)
+[DEBUG] 2019-01-22 11:38:34 [main] c.h.d.U.findByUsernameAndPassword - <==      Total: 1
+[DEBUG] 2019-01-22 11:39:19 [main] c.h.d.U.findByUsernameAndPassword - ==>  Preparing: select username,password from user where username=? and password=? 
+[DEBUG] 2019-01-22 11:39:19 [main] c.h.d.U.findByUsernameAndPassword - ==> Parameters: admin(String), admin(String)
+[DEBUG] 2019-01-22 11:39:19 [main] c.h.d.U.findByUsernameAndPassword - <==      Total: 1
+[DEBUG] 2019-01-22 11:40:00 [main] c.h.d.U.findByUsernameAndPassword - ==>  Preparing: select username,password from user where username=? and password=? 
+[DEBUG] 2019-01-22 11:40:00 [main] c.h.d.U.findByUsernameAndPassword - ==> Parameters: admin(String), admin(String)
+[DEBUG] 2019-01-22 11:40:00 [main] c.h.d.U.findByUsernameAndPassword - <==      Total: 1

@@ -1,0 +1,8 @@
+[DEBUG] 2019-01-18 18:15:40 [main] com.highlion.dao.UserMapper.findById - ==>  Preparing: select *from UserEntity where id=? 
+[DEBUG] 2019-01-18 18:15:40 [main] com.highlion.dao.UserMapper.findById - ==> Parameters: 1(Integer)
+[DEBUG] 2019-01-18 18:19:44 [main] com.highlion.dao.UserMapper.findById - ==>  Preparing: select *from user where id=? 
+[DEBUG] 2019-01-18 18:19:44 [main] com.highlion.dao.UserMapper.findById - ==> Parameters: 1(Integer)
+[DEBUG] 2019-01-18 18:19:44 [main] com.highlion.dao.UserMapper.findById - <==      Total: 1
+[DEBUG] 2019-01-18 18:25:36 [main] c.h.d.U.selectByPrimaryKey - ==>  Preparing: select id, username, password from user where id = ? 
+[DEBUG] 2019-01-18 18:25:36 [main] c.h.d.U.selectByPrimaryKey - ==> Parameters: 1(Integer)
+[DEBUG] 2019-01-18 18:25:36 [main] c.h.d.U.selectByPrimaryKey - <==      Total: 1
